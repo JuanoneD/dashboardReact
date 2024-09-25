@@ -34,7 +34,7 @@ export default function Home() {
               <p>Home</p>
           </a>
       </nav>
-      <div className="p-2 w-full">
+      <div className="p-6 w-full">
         <a  href="#">
           🔙
         </a>
